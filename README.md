@@ -52,5 +52,6 @@ EDA involved the exploring of the data to answer some questions about the data s
   https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/commit/d9adc5e4f651a352c42744d6768c69d4e179c572
 
  https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/commit/860ecbc64bea24100ed050daa4c42da1ae829a95
-
+ 
+https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/blob/main/PROJECT%20CHART%203.jpg
 
