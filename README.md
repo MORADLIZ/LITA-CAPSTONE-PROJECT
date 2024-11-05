@@ -57,3 +57,6 @@ https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/blob/main/PROJECT%20CHART%203.
 
 https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/blob/main/PRODUCT%20CHART%204.jpg
 
+https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/blob/main/PRODUCT%20CHART%205.jpg
+
+
