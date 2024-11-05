@@ -18,5 +18,24 @@
 - SQL-Standard Query Language
 
 - Github for portfolio building
+  
+ ### DATA CLEANING AND PREPARATION
+ In the initial phase of data cleaning and preparation,we perform the follow action;
+ 
+  1. Data loading and inspection
+  2. Handling missing variables
+  3.Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data such as;
+- What is total sale by product?
+- What is the total sale by region?
+- What is the total sale by month?
+- Calculate the average sale per product sale
+- Which product is has the highest?
+
+  
+
+ 
 
 
