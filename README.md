@@ -64,3 +64,5 @@ https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/blob/main/EXCEL%20SHEET%201%20
 https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/blob/main/CHART%20COMBINE.jpg
 
 https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/blob/main/PROJUCT%20C.jpg
+
+https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/blob/main/EXCEL%20SHEET%201.jpg
