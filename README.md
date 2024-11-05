@@ -9,7 +9,13 @@
  The primary sources of data used here is data sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or fred or any data repository site.
  
 ### TOOLS USED
-Microsoft Excel 
-.. for Data cleaning
-.. for Analysis
-.. for  visualization
+-Microsoft Excel [downloadhere](https://microsoft.com)
+  1. For Data cleaning
+  2. For Analysis
+  3. For visualization
+
+- SQL-Standard Query Language
+
+- Github for portfolio
+
+
