@@ -49,7 +49,7 @@ EDA involved the exploring of the data to answer some questions about the data s
  ```
  
 
-  
+  PROJECT CHART 1.jpg
 
  
 
