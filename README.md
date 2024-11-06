@@ -61,6 +61,8 @@ EDA involved the exploring of the data to answer some questions about the data s
 ```EXCEL PIVOT TABLE
 =AVERAGRIF
 ```
+![image](https://github.com/user-attachments/assets/9a384092-f245-47ae-9ec9-bbe78a147661)
+
 
 - VISUALISATION
 
