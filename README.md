@@ -48,6 +48,7 @@ EDA involved the exploring of the data to answer some questions about the data s
  WHERE CONDITION=TRUE
 ```
 ![image](https://github.com/user-attachments/assets/2273351f-55d8-4730-9c8a-61a4bffbcfc9)
+![image](https://github.com/user-attachments/assets/575b92d5-1bd3-4579-87fc-c3c12ec3c632)
 
  
 
