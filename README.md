@@ -21,6 +21,7 @@
 - SQL-Standard Query Language
 
 - Github for portfolio building
+- Microsoft power BI Visualisation
   
  ### DATA CLEANING AND PREPARATION
  ---
@@ -56,6 +57,12 @@ EDA involved the exploring of the data to answer some questions about the data s
 ![image](https://github.com/user-attachments/assets/e1672f39-bf35-469a-94a5-94c5048aa1ab)
 
 ![image](https://github.com/user-attachments/assets/559e3791-b1ea-4752-91d4-8281084406f0)
+
+```EXCEL PIVOT TABLE
+=AVERAGRIF
+```
+
+- VISUALISATION
 
 ![image](https://github.com/user-attachments/assets/2273351f-55d8-4730-9c8a-61a4bffbcfc9)
 
