@@ -44,10 +44,6 @@ EDA involved the exploring of the data to answer some questions about the data s
  ---
  This is where we include some basic lines of code or even some of the DAX expressions used during your analysis;
 
- ```SQL
-  SELECT*FROM TABLE 1
- WHERE CONDITION=TRUE
-```
 
 ```EXCEL PIVOT TABLE
 =SUMIF
@@ -63,8 +59,11 @@ EDA involved the exploring of the data to answer some questions about the data s
 ```
 ![image](https://github.com/user-attachments/assets/9a384092-f245-47ae-9ec9-bbe78a147661)
 
+![image](https://github.com/user-attachments/assets/750b6f8d-fcdd-4ecc-821a-231633865472)
 
-- VISUALISATION
+
+
+- VISUALISATION POWER BI
 
 ![image](https://github.com/user-attachments/assets/2273351f-55d8-4730-9c8a-61a4bffbcfc9)
 
