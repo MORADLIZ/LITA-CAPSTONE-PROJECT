@@ -47,6 +47,7 @@ EDA involved the exploring of the data to answer some questions about the data s
   SELECT*FROM TABLE 1
  WHERE CONDITION=TRUE
 ```
+![image](https://github.com/user-attachments/assets/2273351f-55d8-4730-9c8a-61a4bffbcfc9)
 
  
 
