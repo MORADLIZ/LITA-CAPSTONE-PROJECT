@@ -55,6 +55,8 @@ EDA involved the exploring of the data to answer some questions about the data s
 
 ![image](https://github.com/user-attachments/assets/d181d47d-9d37-49d7-a3e1-8d52470f5e2e)
 
+![image](https://github.com/user-attachments/assets/ff5f06c1-4e72-4f22-a16c-233552d08736)
+
 
 
 
