@@ -1,4 +1,4 @@
-# LITA _ CLASS_PROJECT
+# LITA _CLASS_PROJECT
 
 ### PROJECT TITLE: ECOMMERCE SALE ANALYSIS
 
@@ -47,16 +47,6 @@ EDA involved the exploring of the data to answer some questions about the data s
   SELECT*FROM TABLE 1
  WHERE CONDITION=TRUE
 ```
-
-
-
-
-
-
-
-
-
-
 
  
 
