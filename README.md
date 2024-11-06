@@ -46,7 +46,18 @@ EDA involved the exploring of the data to answer some questions about the data s
  ```SQL
   SELECT*FROM TABLE 1
  WHERE CONDITION=TRUE
- ```
+```
+
+
+
+
+
+
+
+
+
+
+
  
 
   https://github.com/MORADLIZ/LITA-CAPSTONE-PROJECT/commit/d9adc5e4f651a352c42744d6768c69d4e179c572
